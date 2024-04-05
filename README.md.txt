@@ -1,0 +1,1 @@
+Repositório contendo o QQFerias, que se trata de uma aplicação full stack para o gerenciamento de férias.
